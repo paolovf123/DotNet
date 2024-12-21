@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{B0F4A71E-C05A-4AD6-8D78-BA25DCB8C208}|entityFramework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F4A71E-C05A-4AD6-8D78-BA25DCB8C208}|entityFramework.csproj|c:\\users\\user\\documents\\.net\\entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B0F4A71E-C05A-4AD6-8D78-BA25DCB8C208}|entityFramework.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0F4A71E-C05A-4AD6-8D78-BA25DCB8C208}|entityFramework.csproj|c:\\users\\user\\documents\\.net\\entityframework\\tareascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0F4A71E-C05A-4AD6-8D78-BA25DCB8C208}|entityFramework.csproj|solutionrelative:tareascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F4A71E-C05A-4AD6-8D78-BA25DCB8C208}|entityFramework.csproj|c:\\users\\user\\documents\\.net\\entityframework\\entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B0F4A71E-C05A-4AD6-8D78-BA25DCB8C208}|entityFramework.csproj|solutionrelative:entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B0F4A71E-C05A-4AD6-8D78-BA25DCB8C208}|entityFramework.csproj|c:\\users\\user\\documents\\.net\\entityframework\\migrations\\20241221030508_metodosgetpostputdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F4A71E-C05A-4AD6-8D78-BA25DCB8C208}|entityFramework.csproj|solutionrelative:migrations\\20241221030508_metodosgetpostputdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0F4A71E-C05A-4AD6-8D78-BA25DCB8C208}|entityFramework.csproj|c:\\users\\user\\documents\\.net\\entityframework\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,34 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\Models\\Categoria.cs",
-              "RelativeToolTip": "Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20241221030508_MetodosGetPostPutDelete.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\Migrations\\20241221030508_MetodosGetPostPutDelete.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241221030508_MetodosGetPostPutDelete.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\Migrations\\20241221030508_MetodosGetPostPutDelete.cs",
+              "RelativeToolTip": "Migrations\\20241221030508_MetodosGetPostPutDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:07:09.85Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tarea.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\Models\\Tarea.cs",
-              "RelativeDocumentMoniker": "Models\\Tarea.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\Models\\Tarea.cs",
-              "RelativeToolTip": "Models\\Tarea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:10:19.4Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-12-21T03:05:20.047Z",
               "EditorCaption": ""
             },
             {
@@ -70,41 +51,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-20T21:35:03.132Z",
+              "DocumentIndex": 4,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "Models\\Tarea.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\Models\\Tarea.cs",
+              "RelativeToolTip": "Models\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:11:07.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "entityFramework",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\entityFramework.csproj",
-              "RelativeDocumentMoniker": "entityFramework.csproj",
-              "ToolTip": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\entityFramework.csproj",
-              "RelativeToolTip": "entityFramework.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-20T21:34:41.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TareasContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\TareasContext.cs",
-              "RelativeDocumentMoniker": "TareasContext.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\TareasContext.cs",
-              "RelativeToolTip": "TareasContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:21:59.694Z",
+              "WhenOpened": "2024-12-20T22:11:07.022Z",
               "EditorCaption": ""
             },
             {
@@ -115,9 +83,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwEkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T23:55:36.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TareasContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\TareasContext.cs",
+              "RelativeDocumentMoniker": "TareasContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\.NET\\entityFramework\\TareasContext.cs",
+              "RelativeToolTip": "TareasContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:21:59.694Z",
               "EditorCaption": ""
             }
           ]
